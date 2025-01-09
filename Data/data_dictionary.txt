@@ -1,0 +1,5 @@
+CustomerID : Unique identifier for each customer.
+Gender : Gender of each customer.
+Age : Age of customer in years.
+Annual Income (K$) : Annual income in thousand dollars per annum.
+Spending Score (1-100) : A metric assigned to each customer by mall based on their purchase history. 
