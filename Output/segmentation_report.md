@@ -4,6 +4,14 @@
 ### Contact: kkasera025@gmail.com
 ---
 
+## Customer Segment Visualization
+
+The following radar chart visualizes the key characteristics of each customer segment across three dimensions: Age, Income, and Spending Score. This visualization helps in quickly identifying the distinct patterns and differences between segments.
+
+[Radar Chart Visualization](./Output/radar-chart.png "Customer Segments Radar Chart")
+
+*Note: The radar chart shows normalized values for better comparison across segments. Group numbers correspond to the detailed segments described in the report.*
+
 ## Executive Summary
 
 This report presents a customer segmentation analysis for a mall, identifying six distinct groups based on income, spending, and age. The goal is to provide straightforward strategies to enhance customer engagement and increase revenue. By understanding each group's characteristics, the mall can tailor its offerings and marketing efforts to better meet customer needs.
