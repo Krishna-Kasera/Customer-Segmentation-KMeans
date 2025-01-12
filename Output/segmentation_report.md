@@ -8,7 +8,7 @@
 
 The following radar chart visualizes the key characteristics of each customer segment across three dimensions: Age, Income, and Spending Score. This visualization helps in quickly identifying the distinct patterns and differences between segments.
 
-[Radar Chart Visualization](./radar-chart.png "Customer Segments Radar Chart")
+[Radar Chart Visualization](./clusters.png "Customer Segments Radar Chart")
 
 *Note: The radar chart shows normalized values for better comparison across segments. Group numbers correspond to the detailed segments described in the report.*
 
